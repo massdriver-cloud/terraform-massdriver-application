@@ -5,6 +5,8 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=flat-square)](https://github.com/pre-commit/pre-commit)
 [![Terraform Version](https://img.shields.io/badge/terraform-~%3E%201.0-blue?style=flat-square)](https://www.terraform.io/downloads.html)
 
+[Massdriver](https://www.massdriver.cloud) is the fastest way to build reusable self-service Terraform modules with built-in policies, documentation, and deployment pipelines. Instead of just writing code, Massdriver lets you define opinionated infrastructure components as productized modules — complete with validation, compliance checks, and a UI for developers. It’s the best way to manage self-service infrastructure without losing control of your Terraform workflows.
+
 This Terraform module provides seamless integration with Massdriver's application deployment system. It enables your application to access Massdriver's secrets management, connection system for infrastructure data, and dynamic environment variable configuration.
 
 ## Features
