@@ -1,13 +1,3 @@
-terraform {
-  required_version = "~> 1.0"
-  required_providers {
-    jq = {
-      source  = "massdriver-cloud/jq"
-      version = "~> 0.2"
-    }
-  }
-}
-
 locals {
   # These trys are here so that terraform validate will pass in CI.
   # We dont want to require the user to pass in the path to their MD bundle and requiring
