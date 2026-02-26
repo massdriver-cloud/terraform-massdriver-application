@@ -1,6 +1,6 @@
 # Terraform Massdriver Application Module
 
-[![Terraform Registry](https://img.shields.io/github/v/release/massdriver-cloud/terraform-massdriver-application?label=Terraform%20Registry&style=flat-square)](https://registry.terraform.io/modules/massdriver-cloud/application/massdriver)
+[![Terraform Registry](https://img.shields.io/github/v/release/massdriver-cloud/terraform-massdriver-application?label=Terraform%20Registry&style=flat-square)](https://registry.terraform.io/modules/massdriver-cloud/application/massdriver/latest)
 [![License](https://img.shields.io/github/license/massdriver-cloud/terraform-massdriver-application?style=flat-square)](LICENSE)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=flat-square)](https://github.com/pre-commit/pre-commit)
 [![Terraform Version](https://img.shields.io/badge/terraform-~%3E%201.0-blue?style=flat-square)](https://www.terraform.io/downloads.html)
